@@ -4,7 +4,7 @@
 
 ### 业务范围
 
-[思维导图]: https://early-month-subsidy.github.io/dashboard/
+![思维导图](https://raw.githubusercontent.com/early-month-subsidy/dashboard/gh-pages/assets/images/mindmap.png)
 
 ### 相关技术
 
