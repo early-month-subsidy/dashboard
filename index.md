@@ -7,10 +7,10 @@ layout: default
 &nbsp;&nbsp; 
 
 * 1、About（项目规划）
-* 2、Team profile（团队组建）
+* 2、[Team profile（团队组建）](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/02-team-profile)
 * 3、Investigation（项目前期调研）
 * 4、Vision（项目愿景）
-* 5、Product Backlog （产品特性）
+* 5、[Product Backlog （产品特性）](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/05-product-backlog)
 * 6、Requirement specification（需求规格说明）
     - 6.1 Usecase Diagram（用例图）
     - 6.2 Use Cases（用例+活动图）
@@ -38,7 +38,7 @@ layout: default
     - 9.1 XX短视频
     - 9.2 XX短视频
 * X1 meet_recording
-    - inception meeting (yy/mm/dd)
+    - [Inception meeting (2018/10/09)](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/X1-inception-meeting)
 * X2 Tech/Work Report
     - 学号-title
 * X3 Final Report
