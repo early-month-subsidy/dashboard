@@ -1,0 +1,42 @@
+﻿<project version="2.9" name="点餐项目" ID="70826665-BF3B-46B7-AE35-C97458D6069B">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="78630D91-9C59-4316-B8A2-75F9E2F27FBB" expanded="True" code="vA1UdxoU28" thumbCode="vA1UdxoU28" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="127B1734AA8B169DF13CE005B0750418.png"/>
+        <image key="814D4EAC21A722BAC3D29019DF5BB9AD.png"/>
+        <image key="792D6827065FA99EAAC8430B2CC5E8FF.png"/>
+        <image key="9FAFCB8B22657D29CC0243DEB8457889.png"/>
+      </images>
+    </page>
+    <page name="扫码" ID="E669C378-90A0-4203-9092-3EEA649FD24F" expanded="True" code="xGKxBYoKS3" thumbCode="xGKxBYoKS3" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F28A9BD389A405EBE15629DBCBAE4D39.png"/>
+      </images>
+    </page>
+    <page name="点餐" ID="FF57D127-51D3-481F-854C-57276C7D1AA9" expanded="True" code="mleA9SHx1T" thumbCode="mleA9SHx1T" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="814D4EAC21A722BAC3D29019DF5BB9AD.png"/>
+        <image key="127B1734AA8B169DF13CE005B0750418.png"/>
+        <image key="F28A9BD389A405EBE15629DBCBAE4D39.png"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="订单" ID="F6009A4C-4ED7-48EC-B297-AA39EAA746DB" expanded="True" code="2lDsnrZOhm" thumbCode="rRYmU2uf9K" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="814D4EAC21A722BAC3D29019DF5BB9AD.png"/>
+    <image key="127B1734AA8B169DF13CE005B0750418.png"/>
+    <image key="F28A9BD389A405EBE15629DBCBAE4D39.png"/>
+    <image key="792D6827065FA99EAAC8430B2CC5E8FF.png"/>
+    <image key="9FAFCB8B22657D29CC0243DEB8457889.png"/>
+  </images>
+</project>
