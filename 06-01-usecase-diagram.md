@@ -1,3 +1,8 @@
 ### Usecase Diagram
 
-![](D:\软件工程方法论\小组资料\usercase.png)
+![](https://github.com/early-month-subsidy/dashboard/blob/master/imgs/Usercase_Diagram.png)
+
+
+
+
+
