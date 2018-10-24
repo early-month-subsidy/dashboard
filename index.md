@@ -20,7 +20,7 @@ layout: default
     - 6.6 [Supplementary Requirements（补充需求）](06-06-supplementary-requirements.md)
 * 7、Design（设计）
     - 7.1 UI design
-        - [点餐用例 UI设计](Udex.html)
+        - [点餐用例 UI设计](UI_design_01/ui_design_01.html)
     - 7.2 Database design
         - 7.2.1 用户及权限系统与数据表设计
         - 7.2.2 XX子系统数据课设计 

@@ -1,0 +1,76 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E669C378-90A0-4203-9092-3EEA649FD24F" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="8">
+    <control controlID="456FA82A-45DF-4514-B91E-3B6EEAA140CD" controlTypeID="Shape" x="86" y="203" w="166" h="154" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A5EA3AF8-38CB-40E0-9DC4-BC0CA4CAE7CB" controlTypeID="IconButton2" x="0" y="0" w="38" h="38" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="18BD974A-7140-4E3F-8682-906FB7035096" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>shape</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <shapeBorderType>SbEllipse</shapeBorderType>
+        </control>
+        <control controlID="CB04FDCB-8D83-472F-9202-D3C6D21FC602" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+          <canMove>False</canMove>
+          <alias>icon</alias>
+          <icon>
+            <ID>Back.png</ID>
+            <iconFontName/>
+            <iconCode>-1</iconCode>
+          </icon>
+          <URL>F28A9BD389A405EBE15629DBCBAE4D39.png</URL>
+        </control>
+        <control controlID="A63D96CE-1489-4DBC-BF28-838E1CCCE980" controlTypeID="Label" x="0" y="2" w="48" h="16" zOrder="2">
+          <canMove>False</canMove>
+          <alias>label</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%8D%95%E8%A1%8C%E6%96%87%E5%AD%97</text>
+          <textSize>12</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C17E9608-CB7D-4AC7-84D0-76AD3A71FBEE" controlTypeID="Shape" x="24" y="0" w="14" h="13" zOrder="3">
+          <color>4294901760</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>alarm</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>2</text>
+          <textColor>4294967295</textColor>
+          <textSize>8</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>100</radius>
+          <radiusIsPercent>True</radiusIsPercent>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="67CD12BB-D6BB-4C52-9584-195B49AE3386" controlTypeID="Shape" x="20" y="0" w="60" h="40" zOrder="2">
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%BF%94%E5%9B%9E</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="546FA093-0CF0-4553-AB77-1FC4C18CD695" controlTypeID="QRCode" x="109" y="220" w="120" h="120" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="FF57D127-51D3-481F-854C-57276C7D1AA9" linkType="ltPageLink" isApplyIncludePage="False" title="%E7%82%B9%E9%A4%90">
+          <area shape="0" alt="" ID="{4E7DAF43-A170-4DCF-9FF6-BAF8CA8DC488}" coords="(0,0,120,120)"/>
+        </link>
+      </links>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
