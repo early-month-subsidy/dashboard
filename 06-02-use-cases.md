@@ -82,3 +82,29 @@
 - 如果系统检测到与支付平台通信失败，顾客无法支付，跳转回订单页面顾客重新选择支付。
 
 **用例图：** 
+
+![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/Usecase2.1.jpg?raw=true)
+
+**活动图：**
+
+![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/activity2.1.jpg?raw=true)
+
+### Use case 2.2顾客提交订单
+
+**主成功场景**：桌上每位顾客点餐完毕后，询问大家是否点完餐了，点击提交订单，确认并提交订单，订单页面上显示已提交。
+
+**交替场景**：
+
+- 顾客需要加菜，在订单详情页面中选择加菜，并重新跳转到选择菜品的页面。
+- 顾客提交订单后，选择支付订单。
+
+**用例图：**
+
+![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/Usecase2.2.jpg?raw=true)
+
+**活动图：**
+
+![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/activity2.2.jpg?raw=true)
+
+
+
