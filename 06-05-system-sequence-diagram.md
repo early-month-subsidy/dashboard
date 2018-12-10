@@ -16,6 +16,14 @@ by 18214819
 
 ![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/Registered.png?raw=true)
 
+#### 2. 登录
+
+by 18214762
+
+用户登录
+
+![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/Login_sequence_diagram.png?raw=true)
+
 
 
 
