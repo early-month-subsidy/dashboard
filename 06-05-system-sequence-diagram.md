@@ -1,4 +1,4 @@
-## System Sequence Diagram
+﻿## System Sequence Diagram
 
 ### 基本功能
 
@@ -23,6 +23,12 @@ by 18214762
 用户登录
 
 ![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/Login_sequence_diagram.png?raw=true)
+
+#### 3.提交订单
+
+用户提交订单
+
+![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/submit_order.png?raw=true)
 
 
 
