@@ -25,13 +25,13 @@ layout: default
         - 7.2.1 [数据库ER图](07-02-01-ER-diagram.md)
         - 7.2.2 XX子系统数据课设计 
         - 7.2.x 第三方数据评审结果
-    - 7.3 API design
+    - 7.3 [API design](07-03-API-design.md)
     - 7.4 Software Architecture Document
     - 7.5 Usecase design
          - 7.5.1 xx case design
 * 8、生产规范与指南
     - 8.1 XX 代码规范
-    - 8.2 REST API 设计规范
+    - 8.2 [REST API 设计规范](08-02-RESTful-API-design-standard.md)
     - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
     - 8.4 部署说明
 * 9、成品展示
