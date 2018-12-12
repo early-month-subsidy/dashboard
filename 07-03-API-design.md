@@ -124,9 +124,9 @@
 
 
     * Fail:
-
+    
       403：验证码错误或用户名已存在
-
+    
       500：出错
 
 #### 用户登录
@@ -349,53 +349,51 @@
 
       ```json
       {
-          "restaurants": [
-              {
-                  "id": 1,
-                  "name": "Happy Day",
-                  "introduction": "A restaurant in china.",
-                  "opening_time": "周一至周五，11：00am-10:00pm",
-                  "address": "大学城北xxx路",
-                  "images": [
-                      {
-                          "id": 1,
-                          "order_id": 1,
-                          "image_url": "https://example.com/static/images/DNIDJDIFXC1454DF892DF.jpg",
-                          "restaurant_id": 1
-                      }
-                  ],
-                  "boards": [
-                      {
-                          "id": 1,
-                          "occupation": False,
-                          "name": "A1",
-                          "seat_num": 2,
-                          "qr_code": "https://example.com/static/images/DNIDJDIFXC1454DF892DF.jpg",
-                          "restaurant_id": 1
-                      }
-                  ],
-                  "categories": [
-                      {
-                          "id": 1,
-                          "name": "主食",
-                          "priority": 1,
-                          "restaurant_id": 1,
-                          "food": [
-                              {
-                                  "id": 1,
-                                  "name": "米饭",
-                                  "description": "中国人最爱",
-                                  "price": 1.00,
-                                  "image": "https://example.com/static/images/DNIDJDIFXC1454DF892DF.jpg",
-                                  "likes": 1,
-                                  "sales": 1,
-                                  "category_id": 1
-                              }
-                          ]
-                      }
-                  ]
-              }
-          ]
+          "restaurant": {
+              "id": 1,
+              "name": "Happy Day",
+              "introduction": "A restaurant in china.",
+              "opening_time": "周一至周五，11：00am-10:00pm",
+              "address": "大学城北xxx路",
+              "images": [
+                  {
+                      "id": 1,
+                      "order_id": 1,
+                      "image_url": "https://example.com/static/images/DNIDJDIFXC1454DF892DF.jpg",
+                      "restaurant_id": 1
+                  }
+              ],
+              "boards": [
+                  {
+                      "id": 1,
+                      "occupation": False,
+                      "name": "A1",
+                      "seat_num": 2,
+                      "qr_code": "https://example.com/static/images/DNIDJDIFXC1454DF892DF.jpg",
+                      "restaurant_id": 1
+                  }
+              ],
+              "categories": [
+                  {
+                      "id": 1,
+                      "name": "主食",
+                      "priority": 1,
+                      "restaurant_id": 1,
+                      "food": [
+                          {
+                              "id": 1,
+                              "name": "米饭",
+                              "description": "中国人最爱",
+                              "price": 1.00,
+                              "image": "https://example.com/static/images/DNIDJDIFXC1454DF892DF.jpg",
+                              "likes": 1,
+                              "sales": 1,
+                              "category_id": 1
+                          }
+                      ]
+                  }
+              ]
+          }
       }
       ```
 
