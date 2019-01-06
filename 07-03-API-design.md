@@ -10,6 +10,7 @@
     * [注册验证码](#注册验证码)
     * [用户注册](#用户注册)
     * [用户登录](#用户登录)
+    * [微信用户登录](#微信用户登录)
     * [用户登出（access_token）](#用户登出（access_token）)
     * [用户登出（refresh_token）](#用户登出（refresh_token）)
     * [令牌刷新](#令牌刷新)
@@ -167,6 +168,42 @@
       403：用户不存在
 
       401：密码错误
+
+#### 微信用户登录
+
+- **url:**
+
+  > /wxlogin
+
+- **请求方法：POST**
+
+  - Request：
+
+    - Header：None
+
+    - body:  
+
+      ```json
+      {
+          "code": "weixin code"
+      }
+      ```
+
+  - Response：
+
+    - Success: 200
+
+      ```json
+      {
+          "message": "Logged in as <username>.",
+          "access_token": "<jwt_access_token>",
+          "refresh_token": "<jwt_refresh_token>"
+      }
+      ```
+
+    - Fail
+
+      500：出错
 
 #### 用户登出（access_token）
 
