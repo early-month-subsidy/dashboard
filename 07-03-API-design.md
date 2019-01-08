@@ -107,6 +107,7 @@
       {
           "captcha_id": "DCO5D9D23I",
           "captcha": "287a",
+          "nickname": "leo",
           "username": "your username",
           "password": "your password"
       }
@@ -185,7 +186,8 @@
 
       ```json
       {
-          "code": "weixin code"
+          "code": "weixin code",
+          "nickname": "leo"
       }
       ```
 
@@ -571,7 +573,8 @@
                   "quantity": 2,
                   "owner": {
                       "id": 1,
-                      "name": "test"
+                      "username": "test",
+                      "nickname": "leo"
                   },
                   "board_id": 1,
                   "food": {
@@ -589,7 +592,7 @@
 
   - Header：
 
-    Authorization: Bearer <jwt_access_token>
+    Authorization: Bearer \<jwt_access_token\>
 
   - body:  
 
@@ -613,7 +616,8 @@
             "quantity": 2,
             "owner": {
                 "id": 1,
-                "name": "test"
+                "username": "test",
+                "nickname": "leo"
             },
             "board_id": 1,
             "food": {
@@ -655,7 +659,8 @@
                   "quantity": 2,
                   "owner": {
                       "id": 1,
-                      "name": "test"
+                      "username": "test",
+                      "nickname": "leo"
                   },
                   "board_id": 1,
                   "food": {
@@ -673,7 +678,7 @@
 
   - Header：
 
-    Authorization: Bearer <jwt_access_token>
+    Authorization: Bearer \<jwt_access_token\>
 
   - body:  
 
@@ -696,7 +701,8 @@
             "quantity": 3,
             "owner": {
                 "id": 1,
-                "name": "test"
+                "username": "test",
+                "nickname": "leo"
             },
             "board_id": 1,
             "food": {
@@ -719,7 +725,7 @@
 
     - Header：
 
-      Authorization: Bearer <jwt_access_token>
+      Authorization: Bearer \<jwt_access_token\>
 
     - body:  None
 
@@ -747,7 +753,7 @@
 
     - Header：
 
-      Authorization: Bearer <jwt_access_token>
+      Authorization: Bearer \<jwt_access_token\>
 
     - body:  None
 
@@ -778,7 +784,8 @@
               			"quantity": 3,
               			"owner": {
                  				"id": 1,
-                  			"name": "test"
+                  			"username": "test",
+                              "nickname": "leo"
               			},
               			"board_id": 1,
               			"food": {
@@ -798,7 +805,7 @@
 
   - Header：
 
-    Authorization: Bearer <jwt_access_token>
+    Authorization: Bearer \<jwt_access_token\>
 
   - body:  
 
@@ -836,7 +843,8 @@
                     "quantity": 3,
                     "owner": {
                         "id": 1,
-                        "name": "test"
+                        "username": "test",
+                        "nickname": "leo"
                     },
                     "board_id": 1,
                     "food": {
@@ -865,7 +873,7 @@
 
     - Header：
 
-      Authorization: Bearer <jwt_access_token>
+      Authorization: Bearer \<jwt_access_token\>
 
     - body:  None
 
@@ -895,7 +903,8 @@
                       "quantity": 3,
                       "owner": {
                           "id": 1,
-                          "name": "test"
+                          "username": "test",
+                          "nickname": "leo"
                       },
                       "board_id": 1,
                       "food": {
@@ -914,7 +923,7 @@
 
   - Header：
 
-    Authorization: Bearer <jwt_access_token>
+    Authorization: Bearer \<jwt_access_token\>
 
   - body:  
 
@@ -944,7 +953,7 @@
 
   - Header：
 
-    Authorization: Bearer <jwt_access_token>
+    Authorization: Bearer \<jwt_access_token\>
 
   - body:  None
 
