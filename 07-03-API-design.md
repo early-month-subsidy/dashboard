@@ -562,6 +562,10 @@
 
 - **请求方法：GET**
 
+  - 备注：
+
+    - 当同一个用户添加同一个食品（food_id）的时候，后端会寻找当前购物车中是否存在该用户之前已经添加的该食品关联的order_item项，并修改其quantity值为新值，并返回该order_item。如购物车中没有，则创建一个新的order_item项。
+
   - Request：
 
     - Header：None
@@ -683,6 +687,10 @@
 - **请求方法：PUT
 
 - Request：
+
+  - 备注：
+
+    - 这里post的数据中，quantity和action是二选其一的，可以只提供quantity或只提供action。后端逻辑：先判断action，如果为increment则根据原来的quantity加一，为decrement则减一。再判断是否有quantity，如果有就直接覆盖原来的quantity值。
 
   - Header：
 
