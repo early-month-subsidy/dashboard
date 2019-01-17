@@ -37,7 +37,7 @@ layout: default
 * X1 meet_recording
     - [Inception meeting (2018/10/09)](X1-inception-meeting.md)
 * X2 Tech/Work Report
-    - 学号-title
+    - [18214762-lizijie](X2-18214762-lizijie.md)
 * X3 Final Report
     - 学号-title
     - 小组分工与贡献率说明
