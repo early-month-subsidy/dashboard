@@ -39,6 +39,6 @@ layout: default
 * X2 Tech/Work Report
     - [18214762-lizijie](X2-18214762-lizijie.md)
 * X3 Final Report
-    - 学号-title
+    - [18214762-lizijie](X3-18214762-lizijie.md)
     - 小组分工与贡献率说明
 
