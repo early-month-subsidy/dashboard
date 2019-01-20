@@ -42,6 +42,6 @@ layout: default
     - [18214819-wangjiaqi](X2-18214819-wangjiaqi.md)
 * X3 Final Report
     - [18214762-lizijie](X3-18214762-lizijie.md)
-    - [18214751-liruide](X3-liruide.md)
-    - [18214819-wangjiaqi](18214819-wangjiaqi Final Report.md)
+    - [18214751-liruide](X3-18214751-liruide.md)
+    - [18214819-wangjiaqi](X3-18214819-wangjiaqi Final Report.md)
 
