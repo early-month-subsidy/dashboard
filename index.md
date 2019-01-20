@@ -32,7 +32,7 @@ layout: default
     - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-relationship-of-ECB-and-directory-structure-and-logic-architure.md)
     - 8.4 [部署说明](08-04-deployment-specification.md)
 * 9、成品展示
-    - 9.1 XX短视频
+    - 9.1 [月初点餐后台管理系统短视频](09-01-management-system-show.md)
     - 9.2 XX短视频
 * X1 meet_recording
     - [Inception meeting (2018/10/09)](X1-inception-meeting.md)
