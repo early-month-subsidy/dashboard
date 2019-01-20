@@ -44,3 +44,18 @@
 ### 3. 代码仓库的个人git统计报告
 
 - #### 文档仓库项目dashboard
+
+  ![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/18214819-git-dashboard.png?raw=true)
+
+- #### 前端小程序开发miniProgram
+
+  前端开发由我跟liruide合作完成。
+
+  ![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/18214819-git-miniProgram.png?raw=true)
+
+### 4. 自认为最得意/或最有价值/或有苦劳的工作清单，并含简短说明
+
+最有苦劳的就是一开始我们是打算写安卓应用的，装一个AS就浪费了一周的时间。在官网下载就够慢的，安装之后显示找不到SDK，试了很多教程，而且每次安装之后好像安装包都会自动删除？我也不清楚，反正每次卸载之后是什么都找不到了就要重新下载，最后一次实在没耐心了，就卸载干净之后，从配置环境开始，再下载安装，一步一步来，还是有问题，又去官网专门找了sdk,唉，时隔久远，具体啥问题记不清了，总之就是非常郁闷。最后别人给了一个window10镜像，里面自带AS，我装好之后发现电脑内存太小，跑不起来。最后真的是绝望了，就跟队友商量要不换小程序吧。队友同意了，然后我们就从头开始了，幸好进展很快，没耽误最后的ddl。
+
+还有就是写补充性规格说明是真的麻烦呀，要想的事情太多啦。
+
