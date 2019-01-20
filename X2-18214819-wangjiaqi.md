@@ -10,3 +10,11 @@
 
 #### 前端架构
 
+小程序整体架构图如下所示：
+
+![](https://github.com/early-month-subsidy/dashboard/blob/gh-pages/assets/images/System-architecture-diagram.png?raw=true)
+
+小程序分为两个主要部分独立运行：view模块和service模块。view模块负责UI显示，它由wxml和wxss转换后的代码以及微信提供的相关辅助模块组成。一个view模块对应一个webview组件，也就是我们常规理解的一个页面，小程序支持多个view同时存在，view模块通过JSBridge对象来跟后台通信。
+
+Service模块负责应用的 后台逻辑，它由小程序模块负责应用的 后台逻辑，它由小程序js代码以及微信提供的相 关辅助模块组成。一个 小程序应用只有service进程，它同样也是一个页面 进程，它同样也是一个页面 （至少在开发者工具内如此，上线后可能运行于 （至少在开发者工具内如此，上线后可能运行于 WeixinJSCore之中），它与 之中），它与 之中），它与 view模块不同的是， 它在程序生命周期内后台运行service模块通过与 view模块实现不同但接口格式一样的 JSBridge对象跟后台通信。
+交互通过 JSBridge进行，当用户操作触发了事件通过 进行，当用户操作触发了事件通过 进行，当用户操作触发了事件通过 进行，当用户操作触发了事件通过 JSBridge通知逻 辑层，逻执行对应并把数据通过 JSBridge传递给视图层，执行 传递给视图层，执行 相应的操作。 
