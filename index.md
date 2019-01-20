@@ -33,12 +33,15 @@ layout: default
     - 8.4 [部署说明](08-04-deployment-specification.md)
 * 9、成品展示
     - 9.1 [月初点餐后台管理系统短视频](09-01-management-system-show.md)
-    - 9.2 XX短视频
+    - 9.2 [点餐小程序短视频](09-02-front_end_video.md)
 * X1 meet_recording
     - [Inception meeting (2018/10/09)](X1-inception-meeting.md)
 * X2 Tech/Work Report
     - [18214762-lizijie](X2-18214762-lizijie.md)
+    - [18214751-liruide](X2-18214751-liruide.md)
+    - [18214819-wangjiaqi](X2-18214819-wangjiaqi.md)
 * X3 Final Report
     - [18214762-lizijie](X3-18214762-lizijie.md)
-    - 小组分工与贡献率说明
+    - [18214751-liruide](X3-liruide.md)
+    - [18214819-wangjiaqi](18214819-wangjiaqi Final Report.md)
 
